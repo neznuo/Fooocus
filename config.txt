@@ -1,0 +1,7 @@
+{
+    "checkpoint_downloads": {
+        "realvisxlV30Turbo_v30TurboBakedvae.safetensors": "https://civitai.com/api/download/models/272378",
+        "cyberrealistic_v41BackToBasics.safetensors": "https://civitai.com/api/download/models/256915",
+        "cyberrealistic_classicV21.safetensors": "https://civitai.com/api/download/models/270057"
+    }
+}
