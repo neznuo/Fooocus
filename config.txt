@@ -1,6 +1,6 @@
 {
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://civitai.com/api/download/models/288982",
-        "realvisxlV30Turbo_v30TurboBakedvae.safetensors": "https://civitai.com/api/download/models/272378",
+        "realvisxlV30Turbo_v30TurboBakedvae.safetensors": "https://civitai.com/api/download/models/272378"
     }
 }
