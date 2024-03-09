@@ -5,7 +5,6 @@
         "jayHyperRealistic_v20.safetensors": "https://civitai.com/api/download/models/301219",
         "realisticFreedomSFW_wonderland.safetensors": "https://civitai.com/api/download/models/270633",
         "juggernautXL_v9Rdphoto2Lightning.safetensors": "https://civitai.com/api/download/models/357609",
-        "RealitiesEdgeXLLIGHTNING_TURBOV7.safetensors": "https://civitai.com/api/download/models/356472",
         "colossusProjectXLSFW_v60Experimental2.safetensors": "https://civitai.com/api/download/models/355884"
     }
 }
