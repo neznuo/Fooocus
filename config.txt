@@ -4,6 +4,7 @@
         "realvisxlV30Turbo_v30TurboBakedvae.safetensors": "https://civitai.com/api/download/models/272378",
         "jayHyperRealistic_v20.safetensors": "https://civitai.com/api/download/models/301219",
         "realisticFreedomSFW_wonderland.safetensors": "https://civitai.com/api/download/models/270633",
-        "juggernautXL_v9Rdphoto2Lightning.safetensors": "https://civitai.com/api/download/models/357609"
+        "juggernautXL_v9Rdphoto2Lightning.safetensors": "https://civitai.com/api/download/models/357609",
+        "RealitiesEdgeXLLIGHTNING_TURBOV7.safetensors": "https://civitai.com/api/download/models/356472"
     }
 }
